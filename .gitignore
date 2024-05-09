@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/x64/Debug
+/UnitTest1/x64/Debug
+/.vs/LB_12.11

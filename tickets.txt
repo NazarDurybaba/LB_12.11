@@ -1,0 +1,12 @@
+Kyiv
+123
+Ivanov I.I.
+2024-05-10
+Lviv
+456
+Petrov P.P.
+2024-05-11
+Odesa
+789
+Sidorov S.S.
+2024-05-12
